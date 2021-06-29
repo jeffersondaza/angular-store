@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-store-b8855": {
+      "hosting": {
+        "platzi-store": [
+          "angular-store-b8855"
+        ]
+      }
+    }
+  }
+}
